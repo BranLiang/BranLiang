@@ -40,7 +40,7 @@ Alternative: Notion + iCloud notes
 
 🏄‍♂️ **Browser**
 
-Primary: Safari (So I could use native password manager easily)
+Primary: Safari (So I could use native password manager easily), [Firefox focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) is also used on iOS, which is used as an ad blocker extension.
 
 Alternative: Chrome + Firefox, both offers great profile switch function.
 
