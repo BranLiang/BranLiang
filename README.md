@@ -47,3 +47,11 @@ Alternative: Chrome + Firefox, both offers great profile switch function.
 ☁️ **Domain registration**
 
 Primary: [Cloudflare](https://dash.cloudflare.com)
+
+🤖 **Automation**
+
+Primary: [Alfred](https://alfred.app), classic automation tools for Mac users, still receive regular updates.
+
+Workflows:
+- [ChatGPT](https://alfred.app/workflows/alfredapp/openai/)
+- [Hackerboard](https://alfred.app/workflows/vitor/hackerboard/)
